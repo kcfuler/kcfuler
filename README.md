@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend and operating system**
 
-- 👨‍💻 All of my projects are available at [https://kcfuler.github.io](https://kcfuler.github.io/blog/)
+- 👨‍💻 All of my projects are available at [https://kcfuler.github.io](https://kcfuler.github.io)
 
 - 📝 I regularly write articles on [https://juejin.cn/user/1891636642856686/posts](https://juejin.cn/user/1891636642856686/posts)
 
