@@ -1,11 +1,11 @@
 <h1 align="center">Hi 😶‍🌫️, I'm kcfuler</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate software engineer from China</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcfuler&label=Profile%20views&color=0e75b6&style=flat" alt="kcfuler" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcfuler&theme=dracula" alt="kcfuler" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend and operating system**
+- 🌱 I’m currently learning **frontend**
 
 - 👨‍💻 All of my projects are available at [https://kcfuler.github.io](https://kcfuler.github.io)
 
