@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcfuler&theme=dracula" alt="kcfuler" /></a> </p>
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning vite, vue, react
 
-- 📝 I regularly write articles on [https://juejin.cn/user/1891636642856686/posts]([https://juejin.cn/user/1891636642856686/posts](https://www.yuque.com/pengcheng-ntssk))
+- 📝 I regularly write articles on [语雀](https://www.yuque.com/pengcheng-ntssk)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
