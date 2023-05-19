@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcfuler&label=Profile%20views&color=0e75b6&style=flat" alt="kcfuler" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcfuler&theme=dracula" alt="kcfuler" /></a> </p>
-
 - 🌱 I’m currently learning vite, vue, react
 
 - 📝 I regularly write articles on [语雀](https://www.yuque.com/pengcheng-ntssk)
