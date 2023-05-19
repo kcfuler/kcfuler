@@ -79,5 +79,4 @@
 [//]: # (</a>)
 
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kcfuler&theme=radical" alt="kcfuler" /></p>
 
