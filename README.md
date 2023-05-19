@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcfuler&label=Profile%20views&color=0e75b6&style=flat" alt="kcfuler" /> </p>
 
-- 🌱 I’m currently learning vite, vue, react
+- 🌱 I’m currently learning react
 
 - 📝 I regularly write articles on [语雀](https://www.yuque.com/pengcheng-ntssk)
 
