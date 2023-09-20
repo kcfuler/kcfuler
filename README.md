@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcfuler&label=Profile%20views&color=0e75b6&style=flat" alt="kcfuler" /> </p>
 
-- 🌱 interested in sre
+- 🌱 interested in sre and frontend
+- current learning python & vue & Professionalism
 
 - 📝 I regularly write articles on [语雀](https://www.yuque.com/pengcheng-ntssk)
 
