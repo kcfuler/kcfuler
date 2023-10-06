@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcfuler&label=Profile%20views&color=0e75b6&style=flat" alt="kcfuler" /> </p>
 
 - 🌱 interested in sre and frontend
-- current learning python & vue & Professionalism
+- current learning vue & Professionalism
 
-- 📝 I regularly write articles on [语雀](https://www.yuque.com/pengcheng-ntssk)
+- 📝 I regularly write articles on my [blog](kcfuler.vercel.app)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
