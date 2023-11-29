@@ -1,5 +1,5 @@
-<h1 align="center">I'm kcfuler</h1>
-<h3 align="center">A passionate software engineer from China</h3>
+<h1>I'm kcfuler</h1>
+<h3>A passionate software engineer from China</h3>
 
 - 🌱 interested in rust and frontend
 - current learning rust & computer graphics
