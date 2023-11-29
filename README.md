@@ -1,4 +1,3 @@
-<h4>I'm kcfuler, A passionate software engineer from China</h4>
 
 - 🌱 undergraduate @neuq
 - 🦄current learning rust & computer graphics
